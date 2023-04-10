@@ -1,0 +1,1 @@
+print ("tentando abrir o meu primeiro repositrio e seu versionamento")
